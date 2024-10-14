@@ -1,6 +1,6 @@
 # Sidebar Menu Vue
 
-Sidebar menu using Vue.
+Collapsible sidebar menu using Vue.
 
 ## Installation
 
